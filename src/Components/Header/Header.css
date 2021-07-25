@@ -1,0 +1,23 @@
+.input{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.input input{
+    height: 30px;
+    border-radius: 10px;
+    border: 0;
+    margin: 5px;
+    padding: 5px 20px;
+    box-shadow: 5px 10px 10px #095457;;
+}
+
+.btn{
+    margin-top: 5px;
+    padding: 10px 20px;
+    border-radius: 20px;
+    background-color: white;
+    border: 0;
+    box-shadow: 5px 10px 10px #095457;
+}
